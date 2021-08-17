@@ -16,12 +16,12 @@ As per the submission requirement, you can install all the modules/packages usin
 
 ### Flask:
 [spaCy](https://spacy.io/)\
-`pip install -U pip setuptools wheel`
-`pip install -U spacy`
-`python -m spacy download zh_core_web_sm`
-`python -m spacy download en_core_web_sm`
-`python -m spacy download fr_core_news_sm`
-`python -m spacy download es_core_news_sm`
+`pip install -U pip setuptools wheel`\
+`pip install -U spacy`\
+`python -m spacy download zh_core_web_sm`\
+`python -m spacy download en_core_web_sm`\
+`python -m spacy download fr_core_news_sm`\
+`python -m spacy download es_core_news_sm`\
 
 ## Functionality
 In addition to the specified requirements of the submission, I added these additional functionalities below:
